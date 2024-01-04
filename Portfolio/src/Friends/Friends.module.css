@@ -1,0 +1,18 @@
+.friends {
+    height: 100vh;
+    margin: 5vw 18.7vw 0px 18.7vw;
+}
+
+.h1 {
+    color: white;
+    font-family: Valorant;
+    text-align: right;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10vw;
+}

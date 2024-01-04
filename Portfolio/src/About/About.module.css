@@ -1,0 +1,35 @@
+p {
+    color: white;
+}
+
+.about {
+    height: 100vh;
+    margin: 9.2vh 18.7vw 0px 18.7vw;
+}
+
+.aboutSection {
+    margin-top: 18.5vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo {
+    width: 18vw;
+    height: 18vw;
+    border-radius: 50%;
+    margin-right: 7.8vw;
+    font-family: Helvetica, sans-serif;
+}
+
+.textAbout {
+    width: 26vw;
+    line-height: 20px;
+}
+
+h1 {
+    color: white;
+    font-family: Valorant;
+
+}

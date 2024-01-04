@@ -1,0 +1,29 @@
+.back {
+    position: relative;
+}
+.hobbys {
+    height: 100vh;
+    margin: 5vw 18.7vw 10vw 18.7vw;
+    z-index: 1;
+}
+
+.dotaImg {
+    width: 13vw;
+    height: 13vw;
+    object-fit: cover;
+    float: left;
+    margin-right: 1vw;
+    padding-bottom: 0.5vw;
+    box-sizing: content-box;
+}
+
+.content {
+    width: 100%;
+    color: white;
+    z-index: 100;
+}
+
+.h2 {
+    user-select: none;
+    color: white;
+}

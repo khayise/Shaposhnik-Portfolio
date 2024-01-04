@@ -1,0 +1,58 @@
+
+.person {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 62.5vw;
+    margin: auto;
+}
+
+.person img {
+    width: 18vw;
+    height: 18vw;
+    border-radius: 50%;
+}
+
+.person h1 {
+    color: white;
+    font-family: Valorant;
+    font-size: 115px;
+}
+
+.person h2 {
+    color: white;
+    font-family: Valorant;
+    font-size: 105px;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+}
+
+.toRight {
+    transform: translate(75%);
+}
+
+.red {
+    color: red;
+}
+
+.line {
+    border-radius: 0.5vw;
+    height: 4px;
+
+    background-color: red;
+    margin-bottom: 1vw;
+    margin-top: 1vw;
+}
+
+.name {
+    font-family: Valorant;
+    margin-top: 30vh;
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 1vw;
+}
+
